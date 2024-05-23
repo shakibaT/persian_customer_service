@@ -3,3 +3,5 @@
 *.sql
 *.sqlite
 *.json
+*.png
+input_image.ipynb

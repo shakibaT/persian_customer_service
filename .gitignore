@@ -4,4 +4,5 @@
 *.sqlite
 *.json
 *.png
+*.mp3
 input_image.ipynb
